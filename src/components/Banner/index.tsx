@@ -14,7 +14,7 @@ const Banner = () => {
             placeholder='Email Address'
             className='rounded-[10px] border border-slate-400 px-3 py-3 outline-none md:w-[500px]'
           />
-          <button className='max-w-[250px] rounded-[10px] bg-blue-400 py-3 py-6 font-semibold text-white shadow-md'>
+          <button className='max-w-[250px] rounded-[10px] bg-blue-400 px-6 py-3 font-semibold text-white shadow-md'>
             Join to Our Newspaper
           </button>
         </div>
