@@ -1,5 +1,5 @@
 import About from '../../components/About'
-// import Banner from '../../components/Banner'
+import Banner from '../../components/Banner'
 // import Blog from '../../components/Blog'
 import Features from '../../components/Features'
 import Hero from '../../components/Hero'
@@ -12,14 +12,9 @@ const Home = () => {
       <Features />
       <About />
       <Plans />
+      <Banner />
     </>
   )
 }
 
 export default Home
-// <Hero />
-// <Features />
-// <About />
-// <Plans />
-// <Banner />
-// <Blog />
